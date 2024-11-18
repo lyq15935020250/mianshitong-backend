@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.yq.mianshitong.common.ErrorCode;
 import com.yq.mianshitong.constant.CommonConstant;
 import com.yq.mianshitong.exception.ThrowUtils;
-import com.yq.mianshitong.manager.QuestionBankQuestionMapper;
+import com.yq.mianshitong.mapper.QuestionBankQuestionMapper;
 import com.yq.mianshitong.model.dto.questionBankQuestion.QuestionBankQuestionQueryRequest;
 import com.yq.mianshitong.model.entity.Question;
 import com.yq.mianshitong.model.entity.QuestionBank;

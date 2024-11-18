@@ -1,4 +1,4 @@
-package com.yq.mianshitong.manager;
+package com.yq.mianshitong.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.yq.mianshitong.model.entity.QuestionBankQuestion;
